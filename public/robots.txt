@@ -1,0 +1,6 @@
+# robots.txt for חנות ספרים ביתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://חנות-ספרים-ביתא.com/sitemap.xml
