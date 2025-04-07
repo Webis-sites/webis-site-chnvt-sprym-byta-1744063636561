@@ -48,6 +48,10 @@
   --shadow-neumorphic: 8px 8px 16px var(--shadow-color), -8px -8px 16px var(--shadow-highlight);
   --shadow-neumorphic-inset: inset 2px 2px 5px var(--shadow-color), inset -2px -2px 5px var(--shadow-highlight);
   --shadow-neumorphic-pressed: 4px 4px 8px var(--shadow-color), -4px -4px 8px var(--shadow-highlight);
+
+  --shadow-light: 5px 5px 15px rgba(0, 0, 0, 0.05);
+  --shadow-dark: -5px -5px 15px rgba(255, 255, 255, 0.8);
+  --glassmorphism-bg: rgba(255, 255, 255, 0.7);
 }
 
 html {
