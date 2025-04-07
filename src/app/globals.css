@@ -33,6 +33,9 @@
   --neumorphic-shadow: 6px 6px 12px rgba(0, 0, 0, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.15);
   --neumorphic-shadow-hover: 8px 8px 16px rgba(0, 0, 0, 0.15), -8px -8px 16px rgba(255, 255, 255, 0.15);
   --neumorphic-shadow-pressed: inset 4px 4px 8px rgba(0, 0, 0, 0.15), inset -4px -4px 8px rgba(255, 255, 255, 0.15);
+
+  --card-shadow-hover: 12px 12px 20px #d1d1d1, -12px -12px 20px #ffffff;
+  --glass-background: rgba(255, 255, 255, 0.7);
 }
 
 html {
