@@ -8,6 +8,15 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #f5d96b;
   --secondary-color: #ffffff;
+
+  --card-shadow: 10px 10px 20px rgba(0, 0, 0, 0.05), -10px -10px 20px rgba(255, 255, 255, 0.8);
+  --card-inset-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.05), inset -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --glass-bg: rgba(255, 255, 255, 0.25);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.3);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+  --font-heebo: var(--font-heebo), 'Heebo', sans-serif;
+  --font-inter: var(--font-inter), 'Inter', sans-serif;
+  --transition-speed: 0.3s;
 }
 
 html {
