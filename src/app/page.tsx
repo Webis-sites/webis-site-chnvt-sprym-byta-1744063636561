@@ -10,6 +10,7 @@ import BookingSection from '../components/BookingSection';
 import BookRecommendationsSection from '../components/BookRecommendationsSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import EventsSection from '../components/EventsSection';
+import FAQSection from '../components/FAQSection';
 
 export default function HomePage() {
   return (
@@ -25,6 +26,7 @@ export default function HomePage() {
     <BookRecommendationsSection />
     <TestimonialsSection />
     <EventsSection />
+    <FAQSection />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
