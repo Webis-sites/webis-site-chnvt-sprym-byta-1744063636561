@@ -1,8 +1,84 @@
 {
-  "projectName": "חנות-ספרים-ביתא-3636",
-  "businessName": "חנות ספרים ביתא",
-  "created": "2025-04-07T22:07:16.888Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-07T22:09:06.955Z",
+  "status": {
+    "totalComponents": 12,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with RTL configuration and metadata"
+    },
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "RTL header with logo, navigation, and booking CTA"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with Hebrew headline, subheadline, and booking CTA for a bookstore"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL about section highlighting the bookstore's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL services section showcasing the bookstore's offerings"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "RTL booking system with form for appointment scheduling"
+    },
+    {
+      "name": "BookRecommendationsSection",
+      "type": "recommendations",
+      "status": "pending",
+      "description": "RTL section showcasing featured book recommendations"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "RTL testimonials carousel showcasing customer reviews"
+    },
+    {
+      "name": "EventsSection",
+      "type": "events",
+      "status": "pending",
+      "description": "RTL section highlighting upcoming bookstore events"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "RTL FAQ section with accordion-style questions and answers"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "RTL call-to-action section encouraging bookings"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL footer with contact information, social links, and copyright"
+    }
+  ],
+  "repoName": "webis-site-chnvt-sprym-byta-1744063636561"
 }
