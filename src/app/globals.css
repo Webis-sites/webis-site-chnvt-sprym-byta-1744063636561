@@ -28,6 +28,11 @@
   --border-radius: 8px;
   --glass-opacity: 0.8;
   --glass-blur: 10px;
+
+  --glass-reflection: linear-gradient(145deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
+  --neumorphic-shadow: 6px 6px 12px rgba(0, 0, 0, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.15);
+  --neumorphic-shadow-hover: 8px 8px 16px rgba(0, 0, 0, 0.15), -8px -8px 16px rgba(255, 255, 255, 0.15);
+  --neumorphic-shadow-pressed: inset 4px 4px 8px rgba(0, 0, 0, 0.15), inset -4px -4px 8px rgba(255, 255, 255, 0.15);
 }
 
 html {
