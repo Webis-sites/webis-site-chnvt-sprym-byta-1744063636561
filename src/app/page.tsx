@@ -1,7 +1,6 @@
 'use client';
 
 import React from 'react';
-import Layout from '../components/Layout';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 import AboutSection from '../components/AboutSection';
@@ -19,7 +18,6 @@ export default function HomePage() {
     <div className="flex min-h-screen flex-col">
       <main className="flex-1 container mx-auto px-4 py-8">
         {/* כאן יתווספו הקומפוננטות שייווצרו על ידי המחולל */}
-        <Layout />
     <Header />
     <HeroSection />
     <AboutSection />
