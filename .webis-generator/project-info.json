@@ -1,8 +1,38 @@
 {
   "projectName": "חנות-ספרים-ביתא-3636",
   "businessName": "חנות ספרים ביתא",
-  "created": "2025-04-07T22:07:16.888Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו חנות ספרים מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-07T22:07:39.918Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-chnvt-sprym-byta-1744063636561",
+  "formData": {
+    "businessName": "חנות ספרים ביתא",
+    "businessType": "חנות ספרים",
+    "industry": "בידור",
+    "businessSize": "small",
+    "description": "אנחנו חנות ספרים מוביל בתחום הקמעונאות עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#f5d96b",
+    "secondaryColor": "#ffffff",
+    "typographyStyle": "modern",
+    "animationPreference": "moderate",
+    "headline": "חנות ספרים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": true,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "חנות ספרים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות ספרים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "minimalist",
+      "glassmorphism",
+      "corporate"
+    ]
+  }
 }
