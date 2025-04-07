@@ -23,7 +23,8 @@
     "react-responsive": "^9.0.2",
     "react-hook-form": "^7.45.4",
     "react-feather": "^2.0.10",
-    "@tailwindcss/line-clamp": "^0.4.4"
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "next-i18next": "^13.2.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.5",
