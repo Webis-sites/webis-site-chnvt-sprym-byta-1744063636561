@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-07T22:10:40.965Z",
+  "timestamp": "2025-04-07T22:11:13.448Z",
   "status": {
     "totalComponents": 12,
-    "completedComponents": 2,
+    "completedComponents": 3,
     "failedComponents": 0,
-    "progress": 17
+    "progress": 25
   },
   "components": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "HeroSection",
       "type": "hero",
-      "status": "pending",
+      "status": "completed",
       "description": "RTL hero section with Hebrew headline, subheadline, and booking CTA for a bookstore"
     },
     {
